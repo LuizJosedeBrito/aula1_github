@@ -7,6 +7,10 @@ public class Program {
 		System.out.println("Boa tarde");
 		System.out.println("Boa noite");
 		System.out.println("Boa madrugada");
+		
+		for (int i=0;i<10;i++) {
+			System.out.println();
+		}
 
 	}
 
